@@ -1,0 +1,44 @@
+/* coisas com cor */
+
+/* body{color: aquamarine;} */
+
+/* header{color: khaki;} */
+
+/* h1{color: blue;} */
+/* h2, h3 {color:blueviolet;} */
+/* footer h3{color: #409c66;} */
+
+/* id */
+/* #aviso1{color: fuchsia;} */
+
+/* class */
+/* .alerta{color: darkturquoise;} */
+
+/* primeira letra dos parágrafos fica maior */
+/* p::first-letter{font-size: 200%;} */
+
+/* primeira letra de UM parágrafo específico*/
+/* #aviso1::first-letter{font-size: 200%;} */
+
+/* ANOTAÇÃO */
+/* pai = body; o filho sobrepõe o pai */
+/* id fica acima de class */
+
+
+/* coisas com texto */
+
+body{color: hotpink;}
+header{text-align: center;
+       text-decoration: overline;
+       font-style: italic;}
+
+main{text-decoration: underline overline double;
+    text-transform: capitalize ;}
+
+footer{text-decoration: underline;}
+
+p{color: rgb(165, 130, 165);
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+font-style: oblique;}
